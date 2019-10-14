@@ -7,9 +7,9 @@
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
-		printOne();
-		printOne();
-		printTwo();
+		printOasdfasdfne();
+		printasdfasfdOne();
+		priasdfasfdntTwo();
 	}
 
 	public static void printOne() {
