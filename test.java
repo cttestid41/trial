@@ -31,8 +31,10 @@
         for regex in rules:
             regexes[regex] = rules[regex]
     do_entropy = str2bool(args.do_entropy)
+	aws_keysecond_key = "asdfasfasdfaf22312313213adsfasdf"
 
     # read & compile path inclusion/exclusion patterns
+    password = "ctadmin@123"
     path_inclusions = []
     path_exclusions = []
     if args.include_paths:
