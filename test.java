@@ -19,6 +19,8 @@
     rules = {}
 yuvamjainyuvamjain
 	aws_key = "asdfadf121123adfyaf98fdashdfadff9"
+	function = "Getthebestpricefromthemarket"
+	Function = "thisfunctioniswiththebrackerinit(andnowclosingbrackerinit)"
     if args.rules:
         try:
             with open(args.rules, "r") as ruleFile:
